@@ -51,5 +51,6 @@ I'm a self-taught developer. This is my coding journey, a personal growth record
   - [`Python` Compiler](https://github.com/sfyll/nand2tetris/tree/main/projects/11/JackCompiler)
   - [`Jack` OS](https://github.com/sfyll/nand2tetris/tree/main/projects/12)
 - [anon-abuse](https://github.com/orgs/anon-abuse/repositories): ZK Hack 11/23 award-winning middleware to trustlessly create or extend semaphore groups.
+- [ordinArb](https://github.com/sfyll/OrdinArb): Bitcoin dark forest explorer.
 
 🔭 I am currently exploring new technologies and expanding my coding skills, and I'm excited to see where this journey will take me.
